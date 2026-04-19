@@ -1,2 +1,1 @@
-# first-repository
-this is my git repository
+AUTHOR-Abhra Nandi 
